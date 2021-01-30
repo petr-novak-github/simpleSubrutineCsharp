@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\03-SimpleSubrutineCsharp\stuf\SimpleSubrutineCsharp\bin\Debug\SimpleSubrutineCsharp.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\03-SimpleSubrutineCsharp\stuf\SimpleSubrutineCsharp\bin\Debug\SimpleSubrutineCsharp.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\03-SimpleSubrutineCsharp\stuf\SimpleSubrutineCsharp\bin\Debug\SimpleSubrutineCsharp.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\03-SimpleSubrutineCsharp\stuf\SimpleSubrutineCsharp\obj\Debug\SimpleSubrutineCsharp.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\03-SimpleSubrutineCsharp\stuf\SimpleSubrutineCsharp\obj\Debug\SimpleSubrutineCsharp.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\03-SimpleSubrutineCsharp\stuf\SimpleSubrutineCsharp\obj\Debug\SimpleSubrutineCsharp.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\03-SimpleSubrutineCsharp\stuf\SimpleSubrutineCsharp\obj\Debug\SimpleSubrutineCsharp.pdb
